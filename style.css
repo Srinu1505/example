@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+  
+  header {
+    background: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  header nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  header nav ul li {
+    display: inline;
+    margin: 0 1rem;
+  }
+  
+  header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .project-card {
+    background: #f4f4f4;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-left: 4px solid #333;
+  }
+  
+  form input, form textarea {
+    display: block;
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+  }
+  
+  button {
+    padding: 0.7rem 1.5rem;
+    background: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  footer {
+    text-align: center;
+    background: #333;
+    color: #fff;
+    padding: 1rem;
+  }
+  
